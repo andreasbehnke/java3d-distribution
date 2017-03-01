@@ -14,8 +14,8 @@
 	<repositories>
 		<repository>
 			<id>imagej</id>
-			<name>your custom repo</name>
-			<url>http://maven.imagej.net:8081/content/groups/public/</url>
+			<name>maven.imagej.net</name>
+			<url>http://maven.imagej.net/content/repositories/thirdparty/</url>
 		</repository>
 	</repositories>
 	<dependencies>
